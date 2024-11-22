@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cd3d72-a1b9-4abb-aac2-b67eaf454713" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team1/csv-oracle-all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team1/csv-oracle-dj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team1/csv-oracle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team1/csv-oracle2.py" afterDir="false" />
+    <list default="true" id="a1cd3d72-a1b9-4abb-aac2-b67eaf454713" name="변경" comment="241122 +a">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thgmldl0115"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thgmldl0115/pythonproject.git",
+    "accountId": "1eb15f07-ca3b-4a7d-82c4-a6f7e93ecefe"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -117,6 +120,28 @@
       <option name="presentableId" value="Default" />
       <updated>1732067004874</updated>
     </task>
+    <task id="LOCAL-00001" summary="241122">
+      <option name="closed" value="true" />
+      <created>1732265900263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732265900263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="241122 +a">
+      <option name="closed" value="true" />
+      <created>1732265985783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732265985783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="241122" />
+    <MESSAGE value="241122 +a" />
+    <option name="LAST_COMMIT_MESSAGE" value="241122 +a" />
   </component>
 </project>
