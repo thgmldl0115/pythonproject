@@ -4,7 +4,312 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cd3d72-a1b9-4abb-aac2-b67eaf454713" name="변경" comment="241122 +a">
+    <list default="true" id="a1cd3d72-a1b9-4abb-aac2-b67eaf454713" name="변경" comment="241128">
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/label_mapping.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_23.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_25.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_28.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_29.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_30.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_31.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_4.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/model_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_23.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_25.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_27.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_28.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_29.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_30.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_31.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_4.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models/scaler_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/area_bins_by_usage.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/label_mapping.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_10_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_1_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_2_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_3_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_4_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_5_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_6_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_7_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_8.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_8_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_0.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_1.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_10.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_11.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_12.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_13.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_14.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_15.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_16.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_17.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_18.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_19.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_2.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_20.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_21.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_22.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_24.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_26.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_3.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_5.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_6.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_7.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/model_area_9_code_9.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1/ML-2/saved_models_with_area/scaler.joblib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +327,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "thgmldl0115"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thgmldl0115&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/thgmldl0115/pythonproject.git",
-    "accountId": "1eb15f07-ca3b-4a7d-82c4-a6f7e93ecefe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thgmldl0115/pythonproject.git&quot;,
+    &quot;accountId&quot;: &quot;1eb15f07-ca3b-4a7d-82c4-a6f7e93ecefe&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -45,14 +350,114 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.all_mjr_random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.all_mjr_size_random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.all_random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_size.executor&quot;: &quot;Run&quot;,
     &quot;Python.csv-oracle-all.executor&quot;: &quot;Run&quot;,
     &quot;Python.csv-oracle2.executor&quot;: &quot;Run&quot;,
     &quot;Python.gocsv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.건물용도DB삽입.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC-06/PycharmProjects/pythonProject/team1_1129&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.csv-oracle-all">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-06\PycharmProjects\pythonProject\team1_1129" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.all_mjr_size_random">
+    <configuration name="all_mjr_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/team1/ML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/team1/ML/all_mjr_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_mjr_size_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/team1/ML-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/team1/ML-2/all_mjr_size_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/team1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/team1/all_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/team1/ML-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/team1/ML-2/app_size.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="csv-oracle-all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -75,32 +480,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="csv-oracle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/team1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/team1/csv-oracle2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.all_mjr_size_random" />
+        <item itemvalue="Python.app_size" />
+        <item itemvalue="Python.all_mjr_random" />
+        <item itemvalue="Python.all_random" />
         <item itemvalue="Python.csv-oracle-all" />
-        <item itemvalue="Python.csv-oracle2" />
       </list>
     </recent_temporary>
   </component>
@@ -136,12 +522,29 @@
       <option name="project" value="LOCAL" />
       <updated>1732265985783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="241122 +a">
+      <option name="closed" value="true" />
+      <created>1732266414139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732266414139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="241128">
+      <option name="closed" value="true" />
+      <created>1732794514816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732794514816</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="241122" />
     <MESSAGE value="241122 +a" />
-    <option name="LAST_COMMIT_MESSAGE" value="241122 +a" />
+    <MESSAGE value="241128" />
+    <option name="LAST_COMMIT_MESSAGE" value="241128" />
   </component>
 </project>
